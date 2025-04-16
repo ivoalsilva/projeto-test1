@@ -130,3 +130,9 @@ footer p {
 #carrin{
     background-color: linear-gradient(white, var(--gray-100));
 }
+#blococarrinho{
+    background-color: rgb(226, 226, 226);
+    color:#8201ff;
+    padding-right: 50px;
+    display: flex;
+}
